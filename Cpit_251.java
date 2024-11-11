@@ -17,6 +17,7 @@ public class Cpit_251 {
     public static void main(String[] args) {
   System.out.print("hello");
   System.out.print("refal");
+     System.out.print("norah");     
     }
     
 }
