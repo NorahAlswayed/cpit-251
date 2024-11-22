@@ -1,0 +1,12 @@
+SECTION: print
+PROBLEM: can not print
+SOLUTION: install the tools
+
+SECTION: send email
+PROBLEM: the user name is wrong
+SOLUTION: turn off the pc
+
+SECTION: send
+PROBLEM: i cant send the doc
+SOLUTION: open doc then share 
+
